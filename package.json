@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:zhaoyanxzy/leetcode-solutions.git",
+  "author": "Zhaoyan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
